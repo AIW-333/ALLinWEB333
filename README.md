@@ -158,6 +158,30 @@ $299发布一个职位，留存30天；
 
 --  
 
+
+### FW3      
+[链接](https://findweb3.com/jobs)   
+
+有不少实习岗位，大公司为主，可以直接跳转官申很方便，无需注册。
+
+--     
+
+
+### BeinCrypto    
+[链接](https://beincrypto.com/jobs/)    
+
+本身是个crypto media，但开拓了职位板块，职位时效性还凑合，但需要注册才可以申请。
+
+--     
+
+### LaborX        
+[链接](https://laborx.com/vacancies/blockchain-and-crypto)
+
+大公司项目为主，申请需要注册，界面信息不够全面，职位量OK
+
+--     
+
+
 ### Bossjob
 [链接](https://bossjob.com/)    
 
